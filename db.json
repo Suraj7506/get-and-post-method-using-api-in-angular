@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "email": "anil@gmail.com",
+      "name": "anil shaikh",
+      "password": "anil@786",
+      "id": 1
+    },
+    {
+      "email": "suraj@gmail.com",
+      "name": "suraj shukla",
+      "password": "suraj@123",
+      "id": 2
+    },
+    {
+      "email": "omkar@gmail.com",
+      "name": "omkar shinde",
+      "password": "omkar@123",
+      "id": 3
+    },
+    {
+      "email": "bhavesh@gmail.com",
+      "name": "bhavesh nair",
+      "password": "bhavesh@123",
+      "id": 4
+    },
+    {
+      "email": "jay@gmail.com",
+      "name": "jay sharma",
+      "password": "jay@123",
+      "id": 5
+    },
+    {
+      "email": "prachi@gmail.com",
+      "name": "prachi mohpatra",
+      "password": "prachi@123",
+      "id": 6
+    },
+    {
+      "email": "nikita@gmail.com",
+      "name": "nikita chauhan",
+      "password": "nikita@123",
+      "id": 7
+    },
+    {
+      "email": "deepak@gmail.com",
+      "name": "deepak rajbhar",
+      "password": "deepak@123",
+      "id": 8
+    },
+    {
+      "email": "Aarti@gmail.com",
+      "name": "aarti arora",
+      "password": "aarti@786",
+      "id": 9
+    },
+    {
+      "email": "jaydev@gmail.com",
+      "name": "jaydev unadkat",
+      "password": "anil@786",
+      "id": 10
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "id": 11
+    },
+    {
+      "name": "tanmay bhatt",
+      "email": "tanmay2gmail.com",
+      "password": "tanmay@123",
+      "id": 12
+    },
+    {
+      "email": "raju@gmail.com",
+      "name": "raju",
+      "password": "123raju",
+      "id": 13
+    },
+    {
+      "email": "shuklasuraj716@gmail.com",
+      "password": "123",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
